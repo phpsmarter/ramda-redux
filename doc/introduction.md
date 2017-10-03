@@ -9,8 +9,9 @@
     `npm install ramda-redux`
 
 2. using *ramda-redux* for reduce template code.
-    see [ramda-redux-sample](https://github.com/jituanlin/ramda-redux-sample)
+    - See sample:[ramda-redux-sample](https://github.com/jituanlin/ramda-redux-sample)
 
+    - See blog:[Using-ramda-reudx](https://jituanlin.github.io/function/programming/Using-ramda-reudx.html)
 ## How to test
 
 `npm run test`
