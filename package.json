@@ -1,0 +1,35 @@
+{
+  "name": "ramda-redux",
+  "version": "1.0.0",
+  "description": "A helper for reduce React Redux template code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "doc": "node ./script/generateDoc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jituanlin/ramda-redux.git"
+  },
+  "keywords": [
+    "Javascript",
+    "ramda",
+    "redux",
+    "react",
+    "functional-programming"
+  ],
+  "author": "jituanlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jituanlin/ramda-redux/issues"
+  },
+  "homepage": "https://github.com/jituanlin/ramda-redux#readme",
+  "dependencies": {
+    "@types/ramda": "^0.24.14",
+    "assert": "^1.4.1",
+    "berserk": "^2.0.2",
+    "jsdoc-to-markdown": "^3.0.0",
+    "mocha": "^3.5.3",
+    "ramda": "^0.24.1"
+  }
+}
