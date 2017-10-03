@@ -1,6 +1,6 @@
 {
   "name": "ramda-redux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helper for reduce React Redux template code",
   "main": "index.js",
   "scripts": {
